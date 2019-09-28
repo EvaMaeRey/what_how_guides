@@ -1,0 +1,18 @@
+]0;~/Google Drive/what_how_guides[?1034hEvangelines-MacBook-Air:what_how_guides evangelinereynolds$ [KEvangelines-MacBook-Air:what_how_guides evangelinereynolds$ echo "# what_how_guides" >> README.md
+]0;~/Google Drive/what_how_guidesEvangelines-MacBook-Air:what_how_guides evangelinereynolds$ git init
+Initialized empty Git repository in /Users/evangelinereynolds/Google Drive/what_how_guides/.git/
+]0;~/Google Drive/what_how_guidesEvangelines-MacBook-Air:what_how_guides evangelinereynolds$ git add README.md
+]0;~/Google Drive/what_how_guidesEvangelines-MacBook-Air:what_how_guides evangelinereynolds$ git commit -m "first commit"
+[master (root-commit) 719b4a9] first commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+]0;~/Google Drive/what_how_guidesEvangelines-MacBook-Air:what_how_guides evangelinereynolds$ git remote add origin https://github.com/EvaMaeRey/what_how_g uides.git
+]0;~/Google Drive/what_how_guidesEvangelines-MacBook-Air:what_how_guides evangelinereynolds$ git push -u origin master
+Counting objects: 3, done.
+Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 238 bytes | 238.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/EvaMaeRey/what_how_guides.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+]0;~/Google Drive/what_how_guidesEvangelines-MacBook-Air:what_how_guides evangelinereynolds$ 
+]0;~/Google Drive/what_how_guidesEvangelines-MacBook-Air:what_how_guides evangelinereynolds$ [KEvangelines-MacBook-Air:what_how_guides evangelinereynolds$ [KEvangelines-MacBook-Air:what_how_guides evangelinereynolds$ gi [Kt add .
