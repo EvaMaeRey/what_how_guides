@@ -16,3 +16,63 @@ To https://github.com/EvaMaeRey/what_how_guides.git
 Branch master set up to track remote branch master from origin.
 ]0;~/Google Drive/what_how_guidesEvangelines-MacBook-Air:what_how_guides evangelinereynolds$ 
 ]0;~/Google Drive/what_how_guidesEvangelines-MacBook-Air:what_how_guides evangelinereynolds$ [KEvangelines-MacBook-Air:what_how_guides evangelinereynolds$ [KEvangelines-MacBook-Air:what_how_guides evangelinereynolds$ gi [Kt add .
+]0;~/Google Drive/what_how_guidesEvangelines-MacBook-Air:what_how_guides evangelinereynolds$ git commit .[K=[K-m "added two guides"
+[master fef9cdb] added two guides
+ 48 files changed, 3435 insertions(+)
+ create mode 100644 .Rproj.user/C3865889/console06/B4A48CFB
+ create mode 100644 .Rproj.user/C3865889/console06/B4A48CFB.env
+ create mode 100644 .Rproj.user/C3865889/console06/INDEX001
+ create mode 100644 .Rproj.user/C3865889/sources/prop/2E4AC8E1
+ create mode 100644 .Rproj.user/C3865889/sources/prop/3DB1EC
+ create mode 100644 .Rproj.user/C3865889/sources/prop/4514482A
+ create mode 100644 .Rproj.user/C3865889/sources/prop/INDEX
+ create mode 100644 .Rproj.user/C3865889/sources/s-286DC409/13FC379C
+ create mode 100644 .Rproj.user/C3865889/sources/s-286DC409/13FC379C-contents
+ create mode 100644 .Rproj.user/C3865889/sources/s-286DC409/94A98825
+ create mode 100644 .Rproj.user/C3865889/sources/s-286DC409/94A98825-contents
+ create mode 100644 .Rproj.user/C3865889/sources/s-286DC409/A666C747
+ create mode 100644 .Rproj.user/C3865889/sources/s-286DC409/A666C747-contents
+ create mode 100644 .Rproj.user/C3865889/sources/s-286DC409/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/B049382D-academic_website_w_blogdown/1/C3865889286DC409/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/B049382D-academic_website_w_blogdown/1/s/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/F3CB078F-package_in_20_minutes/1/C3865889286DC409/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/F3CB078F-package_in_20_minutes/1/s/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 academic_website_w_blogdown.Rmd
+ create mode 100644 academic_website_w_blogdown.html
+ create mode 100644 package_in_20_minutes.Rmd
+ create mode 100644 package_in_20_minutes.html
+ create mode 100644 thread_photos/Untitled 2.png
+ create mode 100644 thread_photos/Untitled.png
+ create mode 100644 thread_photos/Untitled10.png
+ create mode 100644 thread_photos/Untitled11.png
+ create mode 100644 thread_photos/Untitled12.png
+ create mode 100644 thread_photos/Untitled13.png
+ create mode 100644 thread_photos/Untitled14.png
+ create mode 100644 thread_photos/Untitled15.png
+ create mode 100644 thread_photos/Untitled16.png
+ create mode 100644 thread_photos/Untitled17.png
+ create mode 100644 thread_photos/Untitled19.png
+ create mode 100644 thread_photos/Untitled20.png
+ create mode 100644 thread_photos/Untitled3.png
+ create mode 100644 thread_photos/Untitled3_5.png
+ create mode 100644 thread_photos/Untitled4.png
+ create mode 100644 thread_photos/Untitled4_1.png
+ create mode 100644 thread_photos/Untitled4_2.png
+ create mode 100644 thread_photos/Untitled5.png
+ create mode 100644 thread_photos/Untitled6.png
+ create mode 100644 thread_photos/Untitled7.png
+ create mode 100644 thread_photos/Untitled8.png
+ create mode 100644 thread_photos/Untitled9.png
+ create mode 100644 what_how_guides.Rproj
+]0;~/Google Drive/what_how_guidesEvangelines-MacBook-Air:what_how_guides evangelinereynolds$ git push
+Counting objects: 59, done.
+Delta compression using up to 4 threads.
+Compressing objects:   1% (1/53)   Compressing objects:   3% (2/53)   Compressing objects:   5% (3/53)   Compressing objects:   7% (4/53)   Compressing objects:   9% (5/53)   Compressing objects:  11% (6/53)   Compressing objects:  13% (7/53)   Compressing objects:  15% (8/53)   Compressing objects:  16% (9/53)   Compressing objects:  18% (10/53)   Compressing objects:  20% (11/53)   Compressing objects:  22% (12/53)   Compressing objects:  24% (13/53)   Compressing objects:  26% (14/53)   Compressing objects:  28% (15/53)   Compressing objects:  30% (16/53)   Compressing objects:  32% (17/53)   Compressing objects:  33% (18/53)   Compressing objects:  35% (19/53)   Compressing objects:  37% (20/53)   Compressing objects:  39% (21/53)   Compressing objects:  41% (22/53)   Compressing objects:  43% (23/53)   Compressing objects:  45% (24/53)   Compressing objects:  47% (25/53)   Compressing objects:  49% (26/53)   Compressing objects:  50% (27/53)   Compressing objects:  52% (28/53)   Compressing objects:  54% (29/53)   Compressing objects:  56% (30/53)   Compressing objects:  58% (31/53)   Compressing objects:  60% (32/53)   Compressing objects:  62% (33/53)   Compressing objects:  64% (34/53)   Compressing objects:  66% (35/53)   Compressing objects:  67% (36/53)   Compressing objects:  69% (37/53)   Compressing objects:  71% (38/53)   Compressing objects:  73% (39/53)   Compressing objects:  75% (40/53)   Compressing objects:  77% (41/53)   Compressing objects:  79% (42/53)   Compressing objects:  81% (43/53)   Compressing objects:  83% (44/53)   Compressing objects:  84% (45/53)   Compressing objects:  86% (46/53)   Compressing objects:  88% (47/53)   Compressing objects:  90% (48/53)   Compressing objects:  92% (49/53)   Compressing objects:  94% (50/53)   Compressing objects:  96% (51/53)   Compressing objects:  98% (52/53)   Compressing objects: 100% (53/53)   Compressing objects: 100% (53/53), done.
+Writing objects:   1% (1/59)   Writing objects:   3% (2/59)   Writing objects:   5% (3/59)   Writing objects:   6% (4/59)   Writing objects:   8% (5/59)   Writing objects:  10% (6/59)   Writing objects:  11% (7/59)   Writing objects:  13% (8/59)   Writing objects:  15% (9/59)   Writing objects:  16% (10/59)   Writing objects:  18% (11/59)   Writing objects:  20% (12/59)   Writing objects:  22% (13/59)   Writing objects:  23% (14/59)   Writing objects:  25% (15/59)   Writing objects:  27% (16/59)   Writing objects:  28% (17/59)   Writing objects:  30% (18/59)   Writing objects:  32% (19/59)   Writing objects:  33% (20/59)   Writing objects:  35% (21/59)   Writing objects:  37% (22/59)   Writing objects:  38% (23/59)   Writing objects:  40% (24/59)   Writing objects:  42% (25/59)   Writing objects:  44% (26/59)   Writing objects:  45% (27/59)   Writing objects:  47% (28/59)   Writing objects:  49% (29/59)   Writing objects:  50% (30/59)   Writing objects:  52% (31/59)   Writing objects:  54% (32/59)   Writing objects:  55% (33/59)   Writing objects:  57% (34/59), 1.07 MiB | 1.15 MiB/s   Writing objects:  59% (35/59), 1.07 MiB | 1.15 MiB/s   Writing objects:  61% (36/59), 1.07 MiB | 1.15 MiB/s   Writing objects:  62% (37/59), 1.07 MiB | 1.15 MiB/s   Writing objects:  64% (38/59), 1.07 MiB | 1.15 MiB/s   Writing objects:  66% (39/59), 1.07 MiB | 1.15 MiB/s   Writing objects:  67% (40/59), 1.07 MiB | 1.15 MiB/s   Writing objects:  69% (41/59), 1.07 MiB | 1.15 MiB/s   Writing objects:  71% (42/59), 1.07 MiB | 1.15 MiB/s   Writing objects:  72% (43/59), 1.07 MiB | 1.15 MiB/s   Writing objects:  74% (44/59), 1.07 MiB | 1.15 MiB/s   Writing objects:  76% (45/59), 1.07 MiB | 1.15 MiB/s   Writing objects:  77% (46/59), 1.07 MiB | 1.15 MiB/s   Writing objects:  79% (47/59), 1.07 MiB | 1.15 MiB/s   Writing objects:  81% (48/59), 1.07 MiB | 1.15 MiB/s   Writing objects:  83% (49/59), 1.07 MiB | 1.15 MiB/s   Writing objects:  84% (50/59), 1.07 MiB | 1.15 MiB/s   Writing objects:  86% (51/59), 1.07 MiB | 1.15 MiB/s   Writing objects:  88% (52/59), 1.07 MiB | 1.15 MiB/s   Writing objects:  89% (53/59), 1.07 MiB | 1.15 MiB/s   Writing objects:  91% (54/59), 1.07 MiB | 1.15 MiB/s   Writing objects:  93% (55/59), 1.07 MiB | 1.15 MiB/s   Writing objects:  94% (56/59), 1.07 MiB | 1.15 MiB/s   Writing objects:  96% (57/59), 1.07 MiB | 1.15 MiB/s   Writing objects:  98% (58/59), 1.07 MiB | 1.15 MiB/s   Writing objects: 100% (59/59), 1.07 MiB | 1.15 MiB/s   Writing objects: 100% (59/59), 6.03 MiB | 4.74 MiB/s, done.
+Total 59 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), done.[K
+To https://github.com/EvaMaeRey/what_how_guides.git
+   719b4a9..fef9cdb  master -> master
+]0;~/Google Drive/what_how_guides[?1034hEvangelines-MacBook-Air:what_how_guides evangelinereynolds$ [KEvangelines-MacBook-Air:what_how_guides evangelinereynolds$ git add .
